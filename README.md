@@ -15,3 +15,20 @@ We then continued our analysis by investigating the relationship between success
 The main challenges in this analysis was the lack of more comprehensive data.  More specific data such as who started the campaign and how much experience do they have, or where in the country were the campaigns being launched, would provide more confident analysis.  
 
 
+## Results:
+### Conclusions based on launch date:
+It is difficult to draw any specific conclusions based on launch date from the analysis we conducted given the limited data.  It does appear that the summer months have a higher total number of successful outcomes compared to failed outcomes. This may be a result of more campaigns being launched during these months, or that people are more willing to support theater productions during this time of the year.  
+
+The analysis did show a steep decline in the number of successful campaings in the month of December.  In fact the difference between the number of successful and failed outcomes is only 2.  The box and whisker plot showed this month to be an outlier, indicating that December may not be the best time to launch a campaign.  
+
+### Conculsions based on goal:
+One conclusion we can make from our analysis of outcome based on goal amount is that goals over $50,000 are more likely to fail than succeed.  There were two successful campaigns at this goal level compared to 14 failed campaigns.  For campaigns goals under $50,000, it is hard to conclude whether the goal amount was the driving factor behind successful or failed outcomes.
+
+### Limitations of the data:
+As stated earlier, the data lacked more specific detail like which part of the country was the campaign being launched in, and how large was the theater presence in that part of the country.  It would have been great to have the following data about the person or people launching the campaign: have they done a campaign before, were they successful or not, how much experience do they have.  Knowing more about the person or persons launching the campaign would improve our ability to draw conclusions from the data.
+
+### Future tables and graphs:
+Analyzing the gap between the number of successful and number of failed outcomes with the outcomes based on launch date data would be useful.  When graphed in a box and whisker plot, it showed two outliers (May and December).  The presence of outliers in this data indicates that there is something happening that is causing these two months to be more and less successful respectively.  
+
+Graphing the average donation amount for successful, failed, and canceled campaigns, could provide insigt into the type of investor each outcome recieved.  This might reveal what type of investors are funding campaigns around Louise's goal and could help her better target those investors.
+
